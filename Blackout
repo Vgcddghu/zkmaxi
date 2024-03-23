@@ -1,0 +1,4 @@
+npm publish --access publicnpm init --scope=@your-username NPM
+npm i nama packagenpm init --scope=@your-username NPM
+git push -u origin maingit remote add origin https://github.com/git remote add origin https://github.com/git branch -M maingit commit -m "first commit"git add README.mdgit initgit add .git remote add origingit branch -M maingit commit -m "first commitgit add README.mdgit initgit addnpx create-next-app@latest
+npx create-next-app@latest
